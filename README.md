@@ -1,2 +1,2 @@
-# braino
-The brainomics project
+# Team
+The brainomics project team site
